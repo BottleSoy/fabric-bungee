@@ -13,7 +13,7 @@
     "sources":  "https://github.com/mini_soy/bungee-fabric"
   },
 
-  "license": "CC0-1.0",
+  "license": "GPL-3.0-or-later",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
