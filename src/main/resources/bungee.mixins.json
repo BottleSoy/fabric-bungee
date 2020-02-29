@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "name.soy.fabric.bungee.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ClientConnectionMixin",
+    "HandshakeC2SPacketMixin",
+    "HandshakeC2SPacketMixin2",
+    "HandShakeMixin",
+    "LoginMixin"
+  ],
+  "client": [
+    
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
